@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">birthday greeting</string>
+    <string name="rudra">rudra</string>
+    <string name="generate_greet">generate greet</string>
+    <string name="enter_the_name_of_birthday_kid">enter the name of birthday kid</string>
+</resources>
